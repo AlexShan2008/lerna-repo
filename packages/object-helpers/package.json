@@ -1,0 +1,30 @@
+{
+  "name": "object-helpers",
+  "version": "1.0.0",
+  "description": "a useful tool for Object",
+  "keywords": [
+    "object",
+    "helpers"
+  ],
+  "author": "Tong Shan <tong.shan@rightcapital.com>",
+  "homepage": "https://github.com/AlexShan2008/lerna-repo#readme",
+  "license": "MIT",
+  "main": "lib/object-helpers.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexShan2008/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexShan2008/lerna-repo/issues"
+  }
+}
