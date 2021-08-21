@@ -1,6 +1,6 @@
 {
   "name": "object-helpers",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "a useful tool for Object",
   "keywords": [
     "object",
@@ -22,9 +22,14 @@
     "url": "git+https://github.com/AlexShan2008/lerna-repo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "jest",
+    "tsc": "tsc"
   },
   "bugs": {
     "url": "https://github.com/AlexShan2008/lerna-repo/issues"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6"
   }
 }
