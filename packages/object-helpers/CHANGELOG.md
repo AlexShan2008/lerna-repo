@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/AlexShan2008/lerna-repo/compare/object-helpers@1.5.0...object-helpers@1.6.0) (2021-08-22)
+
+
+### Features
+
+* **object-helpers:** update the unit test case ([1726c59](https://github.com/AlexShan2008/lerna-repo/commit/1726c5943e3f30b47b9515f2e121493f9d4a8453))
+
+
+
+
+
 # 1.5.0 (2021-08-22)
 
 
