@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.3.0 (2021-08-22)
+
+
+### Features
+
+* add TypeScript support ([092d00f](https://github.com/AlexShan2008/lerna-repo/commit/092d00f4171fe3f4afa43176e6926f7baa61a9dd))
+* **date-helpers:** add moment ([f6dd552](https://github.com/AlexShan2008/lerna-repo/commit/f6dd55236ad9a2903decbb7767d2e14ca67e0101))
+* **object-helpers:** add TypeScript support ([bc26d7f](https://github.com/AlexShan2008/lerna-repo/commit/bc26d7f06bf5dab472beeed45024b171ddaa5519))
+
+
+
+
+
 # 1.2.0 (2021-08-21)
 
 
