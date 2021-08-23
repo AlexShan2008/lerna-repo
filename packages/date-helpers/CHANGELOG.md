@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/AlexShan2008/lerna-repo/compare/date-helpers@1.6.0...date-helpers@1.7.0) (2021-08-23)
+
+
+### Features
+
+* **date-helpers:** add moment ([194762d](https://github.com/AlexShan2008/lerna-repo/commit/194762d10d7aabf55ad990c9dcfd0a53fa160666))
+
+
+
+
+
 # 1.6.0 (2021-08-22)
 
 
