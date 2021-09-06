@@ -1,6 +1,6 @@
 {
   "name": "lerna-repo",
-  "private": false,
+  "private": true,
   "license": "MIT",
   "scripts": {
     "publish": "lerna run tsc && lerna publish from-git",
